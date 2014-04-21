@@ -17,6 +17,8 @@ body {
 	height:				50px;
 	position:			fixed;
 	text-align: 		center;
+	color:				white;
+	background-color:	black;
 }
 
 .info {
@@ -29,7 +31,8 @@ body {
 	padding:			10px;
 }
 
-/*cool!
+/*cool! git hub confusion notes....
+cause you accidentally made an offline repo idiot
 oh ok
 here's what you do
 create the repo on git hub
