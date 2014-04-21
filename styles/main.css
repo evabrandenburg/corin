@@ -1,14 +1,26 @@
 /* CURRENTLY IN: styles/main.css */
 
 .container {
-	background-image:	url(corin.jpg);
-	background-size: 	cover;
-	background-position: fixed;
+	background: url(corin.jpg) no-repeat center center fixed; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
 }
 
 body {
 	background:			black;
 	background-image:	url(black.jpg);
+}
+
+
+
+.title {
+	border-radius: 		1px;
+	font-size: 			60px;
+	margin:				auto;
+	color:				white;
+	margin-top:			60px;
 }
 
 .navbar {
@@ -19,6 +31,7 @@ body {
 	text-align: 		center;
 	color:				white;
 	background-color:	black;
+	text-align: 		inline;
 }
 
 .info {
