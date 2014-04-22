@@ -30,6 +30,8 @@ body {
 	overflow: 			hidden;
 	top:				0px;
 	color:				white;
+	position:			fixed;
+	margin-left:		-15px;
 }
 
  h1{
