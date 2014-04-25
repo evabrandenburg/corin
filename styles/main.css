@@ -29,7 +29,6 @@ body {
 	width: 				100%;
 	overflow: 			hidden;
 	top:				0px;
-	color:				white;
 	position:			fixed;
 	margin-left:		-15px;
 }
@@ -44,7 +43,6 @@ body {
 li {
 	float: 				left;
 	padding:			5px;
-	color:				white;
 }
 
 a { 
@@ -64,7 +62,6 @@ ul {
 nav {
 	padding: 			16px 30px;
 	float: 				right;
-	color: 				white;
 	font-size: 			20px;
 	overflow: 			hidden;
 }
@@ -82,13 +79,8 @@ nav {
 	padding:			10px;
 }
 
-
-.controlArrow.next {
-	border-color: transparent transparent transparent #000;
-}
-
-.controlArrow.prev {
-	border-color: transparent #000 transparent transparent;
+.current a {
+	color:				gray;
 }
 
 /*cool! git hub confusion notes....
