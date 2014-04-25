@@ -49,7 +49,8 @@ li {
 a { 
 	color:				white;
 	text-decoration:	none;
-	font-family: 		sans-serif;	
+	font-family: 		sans-serif;
+	-webkit-transition: color .25s linear;	
 }
 a:hover {
 	text-decoration:	none;
