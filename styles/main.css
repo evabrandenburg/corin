@@ -102,11 +102,23 @@ nav {
 }
 
 footer {
-	color:				white;
+	color:				gray;
+	background-color:	black;
+	height:				40px;
+	width:				100%;
+	bottom:				0px;
+	position:			fixed;
+	margin-left:		-15px;
 }
 
 .albums {
-	margin-top:			100px;
+	margin-top:			300px;
+}
+
+.videos {
+	margin-top:			175px;
+	margin-bottom:		135px;
+
 }
 
 /*cool! git hub confusion notes....
