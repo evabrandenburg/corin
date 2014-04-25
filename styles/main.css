@@ -8,6 +8,7 @@ background: 			url(corin.jpg) no-repeat center center fixed;
 background-size: 		cover;
 position:				relative;
 width:					100%;
+height:					100%;
 }
 
 body {
@@ -52,6 +53,7 @@ a {
 }
 a:hover {
 	text-decoration:	none;
+	color:				gray;
 }
 
 p {
@@ -82,8 +84,25 @@ nav {
 	padding:			10px;
 }
 
+.contact {
+
+	margin-top:			170px;
+	margin-bottom:		100px;
+	width:				30%;
+	margin-left:		55%;
+	margin-right:		30%;
+	border-radius:		2px;
+	background-color:	rgba(0, 0, 0, 0.49);
+	color:				white;
+	padding:			10px;
+}
+
 .current a {
 	color:				gray;
+}
+
+footer {
+	color:				white;
 }
 
 /*cool! git hub confusion notes....
