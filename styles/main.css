@@ -17,12 +17,12 @@ body {
 
 
 
-/*.title {
+.title {
 	border-radius: 		1px;
 	font-size: 			50px;
 	margin:				auto;
 	color:				white;
-}*/
+}
 
 .top {
  	background-color: 	black;
@@ -49,6 +49,9 @@ a {
 	color:				white;
 	text-decoration:	none;
 	font-family: 		sans-serif;	
+}
+a:hover {
+	text-decoration:	none;
 }
 
 p {
