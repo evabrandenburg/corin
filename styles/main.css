@@ -17,10 +17,17 @@ body {
 
 .choiceOne {
 	background:			url(corin.jpg);
+	-webkit-background-size: cover;
+-moz-background-size: 	cover;
+-o-background-size: 	cover;
+background-size: 		cover;
+position:				relative;
+width:					100%;
+height:					100%;
 }
 
 .choiceTwo {
-	background:			url(corin.jpg);
+	background:			url(corin2.jpg);
 }
 
 

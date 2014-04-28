@@ -20,6 +20,8 @@ changePic.click(
 		else {
 			pix.addClass( 'choiceTwo' );
 		}
+
+		alert( val('rando') );
 	});
 
 
