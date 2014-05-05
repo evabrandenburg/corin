@@ -1,7 +1,7 @@
 (function(){
 
-$(document).ready(function(){
-  /*$('.bxslider').bxSlider({
+/*$(document).ready(function(){
+  $('.bxslider').bxSlider({
   	minSlides: 1,
   	maxSlides: 1,
   	slideWidth: 350,
@@ -28,10 +28,13 @@ changePic.click(
 			//pix.addClass( 'choiceTwo' );
 		}
 
+		//var pics = []
+		//math.random() * pics.length
+
+		//$('.container').css('background-image', 'url()'
+
 
 	});
-});
-
 
 })();
 
