@@ -1,0 +1,60 @@
+to do in no order
+
+
+corin
+figure out random backgrounds 
+-add more than 2 
+-how not to repeat
+-get more pics and videos
+
+-corinstiggall.com
+-username - doublejimz
+-password - x2dome?
+-city born - Santa Clara ... or Los Catos
+
+-gkg.net
+
+front end on ezbike
+-geolocation api
+
+personal site
+-finish
+ -fix text...
+ -look up skeleton
+  -fix reponsive messiness
+
+decider
+ -fix any bugs... get over it and add to personal
+
+ tab like a spaz
+
+
+ fade in fade out slideshow for neil 
+
+
+ FIGURE out rate
+
+
+MODE  |NAME    		MEANING FOR FILES  | MEANING FOR DIRECTORIES
+======+===========+===================+==================
+r 	  | read		look at contents	list contents of directory
+w  	  | write		modify contents		delete files in directory 
+										or create new ones
+x 	  | eXecute		execute as program 	interact with children of 
+										the directory
+
+
+Give the permission M (placehloder) (for all users on your computer)
+
+chmod +M /the/dang/file
+
+Take away the permission M (placehloder) (for all users on your computer)
+
+chmod -M /the/dang/file
+
+
+
+To run commands automatically every time a new terminal window is opened:
+
+
+Put the commands in ~/.bashrc
