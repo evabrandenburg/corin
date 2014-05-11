@@ -80,6 +80,9 @@ a:hover {
 	color:				white;
 }
 
+a:visited {
+	color:				#B3BDFF;
+}
 p {
 	font-family:		sans-serif;
 }
@@ -144,6 +147,24 @@ footer {
 	margin-top:			175px;
 	margin-bottom:		135px;
 
+}
+
+@media (max-width: 480px) {
+	.info {
+		width:				80%;
+		margin-left:		5%;
+		margin-right:		2%;
+		float:				right;
+	}			
+}
+
+@media (max-width: 768px) {
+	.info {
+		width:				60%;
+		margin-left:		5%;
+		margin-right:		5%;
+		float:				right;
+	}
 }
 
 /*cool! git hub confusion notes....
