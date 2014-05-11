@@ -70,14 +70,14 @@ li {
 }
 
 a { 
-	color:				white;
+	color:				#B3BDFF;
 	text-decoration:	none;
 	font-family: 		sans-serif;
 	-webkit-transition: color .25s linear;	
 }
 a:hover {
 	text-decoration:	none;
-	color:				gray;
+	color:				white;
 }
 
 p {
