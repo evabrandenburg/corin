@@ -84,3 +84,20 @@ To run commands automatically every time a new terminal window is opened:
 Put the commands in ~/.bashrc
 
 gorilla tape
+
+add content editable attribute in html
+
+blueimp jquery file upload
+
+tiny mc text editor
+
+canvas
+
+png images... css animate behind
+
+workfolio.com
+
+yeoman
+angular js
+
+parallax scrolling for neil
