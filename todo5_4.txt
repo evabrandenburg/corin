@@ -23,6 +23,12 @@ personal site
  -look up skeleton
   -fix reponsive messiness
 
+hamlet
+-hamlet zurita
+-carmen valle
+
+
+
 decider
  -fix any bugs... get over it and add to personal
 
@@ -100,4 +106,9 @@ workfolio.com
 yeoman
 angular js
 
-parallax scrolling for neil
+parallax scrolling for me
+
+Dom's blog
+
+wordpress theme?
+
