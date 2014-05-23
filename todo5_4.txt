@@ -12,6 +12,8 @@ figure out random backgrounds
 -password - x2dome?
 -city born - Santa Clara ... or Los Catos
 
+ON THE INTERNET
+
 -gkg.net
 
 front end on ezbike
@@ -39,7 +41,7 @@ sass n haml
 dns for developers
 
 
- fade in fade out slideshow for neil 
+ DONE fade in fade out slideshow for neil 
 
 
  FIGURE out rate
@@ -110,5 +112,5 @@ parallax scrolling for me
 
 Dom's blog
 
-wordpress theme?
+WORKING ON ITwordpress theme?
 
