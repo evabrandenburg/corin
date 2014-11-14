@@ -92,7 +92,7 @@ li {
 }
 
 a { 
-	color:				#B3BDFF;
+	color:				white;
 	text-decoration:	none;
 	font-family: 		sans-serif;
 	-webkit-transition: color .25s linear;	
@@ -133,6 +133,19 @@ nav {
 	color:				white;
 	padding:			20px;
 	display:			block;
+}
+
+.press {
+
+	margin-top:			80px;
+	margin-bottom:		20px;
+	width:				30%;
+	margin-left:		20%;
+	border-radius:		2px;
+	background-color:	rgba(0, 0, 0, 0.70);
+	color:				white;
+	display:			block;
+	float:				left;
 }
 
 .contact {
