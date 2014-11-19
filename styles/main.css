@@ -91,15 +91,9 @@ li {
 	padding:			5px;
 }
 
-a { 
-	color:				white;
-	text-decoration:	none;
-	font-family: 		sans-serif;
-	-webkit-transition: color .25s linear;	
-}
 a:hover {
 	text-decoration:	none;
-	color:				white;
+	color:				gray;
 }
 
 a:visited {
